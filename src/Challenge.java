@@ -3,7 +3,8 @@ public class Challenge {
 
         int[] a={0,1};
         int[] result=algorithm(a);
-        System.out.println(result[0] + " ");
+        System.out.println(result[0]);
+        System.out.println(result[1]);
 
 
     }
